@@ -1,0 +1,17 @@
+body {
+  text-align: center;
+  margin: 3px;
+}
+
+img {
+  width: 95%;
+}
+
+p {
+  width: 95%;
+}
+
+.column {
+  width: 33%;
+  float: left;
+}
